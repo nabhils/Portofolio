@@ -1,0 +1,33 @@
+{
+  "name": "Nama Anda",
+  "sport": "SPORT ANALYST  /  ATHLETE",
+  "location": "Jakarta, Indonesia",
+  "profilePhoto": "",
+  "headline": "The game is won\nbefore the whistle.",
+  "intro": "Membaca permainan dengan data. Menjalaninya dengan disiplin. Saya percaya performa terbaik lahir saat analisis bertemu pengalaman di lapangan.",
+  "bio": "Saya adalah sport analyst sekaligus atlet yang tertarik pada detail di balik setiap performa. Dari pola permainan hingga progres latihan, saya mengubah data menjadi insight yang terasa nyata di lapangan.",
+  "email": "hello@example.com",
+  "instagram": "https://instagram.com/",
+  "linkedin": "https://linkedin.com/",
+  "stats": [
+    { "value": "0+", "label": "Tahun pengalaman" },
+    { "value": "0+", "label": "Analisis pertandingan" },
+    { "value": "0", "label": "Cabang olahraga" }
+  ],
+  "skills": ["Analisis performa", "Visualisasi data", "Scouting & evaluasi", "Strategi pertandingan", "Perencanaan latihan", "Pengalaman kompetisi"],
+  "projects": [
+    { "tag": "MATCH ANALYSIS", "sport": "Sepak bola", "year": "2025", "title": "Membaca ruang di sepertiga akhir", "desc": "Studi pola progresi bola dan penciptaan peluang. Ganti ringkasan ini dengan proyek analisis Anda.", "color": "lime", "number": "01", "image": "", "url": "", "published": true },
+    { "tag": "PERFORMANCE DATA", "sport": "Performa", "year": "2025", "title": "Dari data menjadi keputusan", "desc": "Cara mengubah metrik latihan menjadi rekomendasi yang bisa langsung dijalankan.", "color": "blue", "number": "02", "image": "", "url": "", "published": true },
+    { "tag": "ATHLETE JOURNAL", "sport": "Latihan", "year": "2024", "title": "Konsistensi adalah strategi", "desc": "Catatan tentang progres latihan, pemulihan, dan membangun kebiasaan kompetitif.", "color": "orange", "number": "03", "image": "", "url": "", "published": true }
+  ],
+  "achievements": [
+    { "year": "2025", "title": "Nama kompetisi / pencapaian", "detail": "Kategori · Hasil", "url": "" },
+    { "year": "2024", "title": "Nama kompetisi / pencapaian", "detail": "Kategori · Hasil", "url": "" },
+    { "year": "2023", "title": "Nama kompetisi / pencapaian", "detail": "Kategori · Hasil", "url": "" }
+  ],
+  "journey": [
+    { "year": "2025 — SEKARANG", "title": "Atlet & sport analyst", "detail": "Tim / organisasi · Kota", "url": "" },
+    { "year": "2023 — 2025", "title": "Perjalanan kompetisi", "detail": "Klub / akademi · Kota", "url": "" },
+    { "year": "2021 — 2023", "title": "Awal perjalanan", "detail": "Pelatihan / pendidikan", "url": "" }
+  ]
+}
